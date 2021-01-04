@@ -113,6 +113,11 @@ Iam currently a Final-year BS.c student at the Department of Computer Engineerin
 
 Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Highschool, in September 2015. I tried to use my Diploma to build a solid bedrock for my future research. So in addition to taking many optional bachelor-level courses on math and computer science. I spent 6 months as an intern Programmer at the "CoTech" in Isfahan.
 
+#### My main research interests
+- Artificial Intelligence, Machine Learning
+- Optimization Algorithm, Neural & NeuroFuzzy Network
+- Computer Vision, Signal and Image Processing
+
 🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢" 👉 [mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
 📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
 
