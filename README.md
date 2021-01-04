@@ -106,7 +106,7 @@ Ants appeared on Earth about a hundred million years ago. These insects have a s
 ### The First: "Mohammad Hossein Mohammadi"
 
 <p align="center">
-  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/MohammadHosseinMohammadi.jpeg">
+  <img width="360" height="276" src="https://raw.githubusercontent.com/Mohammadimh76/Book_MetaheuristicWithPython/main/Authors/MohammadHosseinMohammadi.jpeg">
 </p>
 
 Iam currently a Final-year BS.c student at the Department of Computer Engineering, Islamic Azad University, Najafabad Branch (IAUN) (Rank in CWUR) where I am a member of the Bioinformatics Laboratory (BL), advised by Prof. Mohammad Naderi Dehkordi. my research involves machine vision, deep learning, and neural networks. where I will complete my thesis on Accurate and Early Identification of Diabetes and it's Affecting Factors.
@@ -126,7 +126,7 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 ### The Second: "Ali Karimi"
 
 <p align="center">
-  <img width="320" height="320" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Authors/AliKarimi.jpeg">
+  <img width="320" height="320" src="https://raw.githubusercontent.com/Mohammadimh76/Book_MetaheuristicWithPython/main/Authors/AliKarimi.jpeg">
 </p>
 
 Iam currently a second-year MS.c student at the Department of Electrical and Computer Engineering, University of Tehran (UT) where I am a member of the Multimedia Processing Laboratory (MPL), advised by Prof. Mohammad Ghanbari. my research involves machine vision, deep learning, and neural networks.
