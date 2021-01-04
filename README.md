@@ -10,7 +10,7 @@ It is hoped that this small effort will be used by respected scholars and will i
 Authors Group
 
 
-| Front_BookCover  | Back_BookCover  |
+| Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_7.jpeg"></p>|<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_7_b.jpeg"></p>|
 |  <b>Book Name</b>   |   Metaheuristic with python  |
