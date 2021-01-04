@@ -39,7 +39,7 @@ Authors Group
 | 1-2- Basic components of optimization problems | 2-2- Simulated Annealing         | 3-2- The concept of using memory in search is forbidden |
 | 1-3- Classification of optimization problems | 2-3- Optimal localized points | 3-3- Basic parameters in the forbidden search method |
 | 1-4- Types of optimization solutions | 2-4- Mapping the concepts of the cooling process as an optimization problem | 3-4- Fundamentals of Forbidden Search Approach |
-| 1-5- Classification of optimization methods | 2-5- Mathematical concept of refrigeration simulation | 3-5- applications |
+| 1-5- Classification of optimization methods | 2-5- Mathematical concept of refrigeration simulation | 3-5- Applications |
 | | 2-6- Refrigeration simulation algorithm implementation process | |
 | | 2-7- Modified versions of the refrigeration simulation algorithm  | |
 | | 2-8- Advantages and disadvantages of refrigeration simulation algorithm | |
