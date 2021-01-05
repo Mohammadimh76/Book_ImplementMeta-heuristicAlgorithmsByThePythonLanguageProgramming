@@ -98,6 +98,11 @@ The word ta bo comes from a Polynesian language, used in the past by the indigen
 
 ## Chapter (4) - Genetic Algorithm (GA)
 Genetic Algorithm (GA) is an optimization and search algorithm based on the principles of genetics and natural selection. In a genetic algorithm, a group of individuals emerge and develop in a situation where the overall goal is to maximize the merits of the entire population or minimize a population-related cost. John Holland introduced the method in the 1960s and 1970s, but it was eventually put together by one of his students, David Goldberg. Holland's early work was collected, published and published in his book. He was the first to attempt to provide a theoretical basis for genetic algorithms by articulating pattern theory. The results of Diong's study, published in 1977, showed that the genetic algorithm was effective in optimizing functions. He took the first organized action to find the optimal value of the parameters of the genetic algorithm. In general, Goldberg has the largest share in the development of genetic algorithms; Because he offered many successful applications for genetic algorithms and wrote a very useful book about it. Since then, many evolutionary algorithms have been proposed and developed for various applications (Randy et al., 2004; Mitchell Melanie, 1999; Amit Connar, 2000; Goldberg,1989).<br>
+
+<p align="center">
+  <img width="854" height="480" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Genetic_Algorithm.gif">
+</p>
+
 As mentioned, the genetic algorithm is one of the most important innovative algorithms used to optimize various functions and was first proposed by John Holland at the University of Michigan. In this algorithm, past information - due to heredity - is extracted and used in the search process. , Are random search techniques that are based on natural selection and natural genealogy. These algorithms are fundamentally different from conventional search and optimization methods, as Goldberg summarizes them.<br>
 
 - The genetic algorithm works with encoded sets, not with them
@@ -109,6 +114,10 @@ In this chapter, first a list of basic concepts about genetic algorithm is prese
 
 ## Chapter (5) - Ant Colony Optimization algorithms (ACO)
 Ants appeared on Earth about a hundred million years ago. These insects have a social life with collective behaviors. Although only 2% of insect species have social life, ants make up more than 50% of the insect biomass. In some places, such as the Amazon rainforest, the rate rises to more than 4 percent. Social life means the accumulation of a large number of a particular species in the form of a collection or colony and their interaction with each other. All ants and termites, as well as some species of bees, live in colonies. Insect communities can work together to resolve issues that none of the members of that community alone can solve. Most of these problems can be expressed in terms of optimization. Babies are one of the optimization problems that social insects solve together. These problems all have equivalents among everyday optimization problems (Olario and Zumaya, 2006; Sayari et al., 2006; Dorigo et al., 2006; Dorigo and Di Caro, p. 1999).<br>
+
+<p align="center">
+  <img width="640" height="360" src="">
+</p>
 
 ## Chapter (6) - Particle Swarm Optimization (PSO)
 ### 🔺(Coming Soon)🔺
