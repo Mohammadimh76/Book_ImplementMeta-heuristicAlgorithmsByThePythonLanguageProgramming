@@ -70,10 +70,20 @@ There are search methods that aim to find an answer to the optimization problem,
 ## Chapter (2) - Simulated Annealing (SA) 
 Optimization is the process that is followed to make something better. The idea, idea or design put forward by a scientist or engineer gets better during the optimization process. During optimization, the initial conditions are examined in different ways and the information obtained is used to improve an idea or method. Optimization is a mathematical tool used to find answers to many questions about how to solve various problems.<br>
 Optimization refers to finding the best answer to a problem. The word best implicitly states that there is more than one answer to a problem that is not of equal value. Defining the best answer to the problem under consideration is the method of solving And also the amount of error allowed depends; Therefore, how the problem is formulated also has a direct impact on how the best answer is defined. Some questioners have definite answers. The best player in a sport, the longest day of the year, and the answer to a typical first-order differential equation are examples of simple problems.<br>
+
+<p align="center">
+  <img width="420" height="237" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Simulated_Annealing.gif">
+</p>
+
 In contrast, some problems have multiple maximum or minimum answers, known as optimal or extreme points, and the best answer is probably a relative concept. The best works of art, the most beautiful scenery and the most pleasing piece of music are some of the examples that can be given for such issues.<br>
 In mathematics, there are beautiful ways to solve the optimization problem. These methods are valid and easy to use for some cost functions. Many complex problems can be transformed into functions with a little change and analysis, which can be found to be the minimum or maximum value using analytical methods.<br>
 The extreme points of any function are the first-order derivatives of that function. In this way, by deriving the function and setting its value to zero and solving the resulting equation, the location of the extreme points can be obtained. If the sign of the second derivative of the function is negative at an extreme point, the obtained extreme point is a local minimum point for the function under consideration. Similarly, the positive sign for the second derivative indicates the existence of a local maximum point. Scalar is valid. For multivariate functions, the equations defined in the vector differential calculus can be used.<br>
 For example, a function gradient is used instead of a derivative. Many methods have been proposed to improve the analytical optimization process, but in general, for problems that are complex or do not have a clear mathematical definition, the analytical method assumes efficiency. It will not have.<br>
+
+<p align="center">
+  <img width="420" height="315" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Simulated_Annealing_2.gif">
+</p>
+
 In contrast, there are methods that are inspired by nature and do not have a specific function, but the behavior of these algorithms is mostly described by random quantities. It should be noted that in our opinion, the behavior of nature is unpredictable and therefore methods We have modeled nature attributes with random numbers, but this attitude is most likely due to our lack of understanding of nature's behavior. Nature-derived methods, in addition to their many beauties, also bring us the power of nature. Nature is always optimizing and some people believe that it always does the best it can. Nature-inspired methods are in fact conscious imitations of nature to use a nature-like method in dealing with various issues. One of the algorithms that falls into this category is the refrigeration simulation algorithm or the open algorithm. Baking (SA) is the subject of discussion and will be explained below. 
 
 ## Chapter (3) - Tabu Search (TS)
