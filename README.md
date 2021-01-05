@@ -1,4 +1,4 @@
-## "Metaheuristic with python" 🔺(Coming Soon)🔺
+## "Meta-heuristic algorithms with python" 🔺(Coming Soon)🔺
 
 
 ---
