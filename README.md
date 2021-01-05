@@ -116,7 +116,7 @@ In this chapter, first a list of basic concepts about genetic algorithm is prese
 Ants appeared on Earth about a hundred million years ago. These insects have a social life with collective behaviors. Although only 2% of insect species have social life, ants make up more than 50% of the insect biomass. In some places, such as the Amazon rainforest, the rate rises to more than 4 percent. Social life means the accumulation of a large number of a particular species in the form of a collection or colony and their interaction with each other. All ants and termites, as well as some species of bees, live in colonies. Insect communities can work together to resolve issues that none of the members of that community alone can solve. Most of these problems can be expressed in terms of optimization. Babies are one of the optimization problems that social insects solve together. These problems all have equivalents among everyday optimization problems (Olario and Zumaya, 2006; Sayari et al., 2006; Dorigo et al., 2006; Dorigo and Di Caro, p. 1999).<br>
 
 <p align="center">
-  <img width="640" height="360" src="">
+  <img width="854" height="468" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Ant%20ColonyOptimizationAlgorithms.gif">
 </p>
 
 ## Chapter (6) - Particle Swarm Optimization (PSO)
