@@ -15,10 +15,10 @@ Authors Group
 |<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_7.jpeg"></p>|<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_7_b.jpeg"></p>|
 |  <b>Book Name</b>   |   Implement  Meta-heuristic algorithms by the Python language programming  |
 | <b>Authors</b>    |   M.H.Mohammadi, A.Karimi|
-| <b>language</b>    |  English   |
+| <b>language</b>    |  <b>English</b>   |
 | <b>Printed in the</b>    |  ...   |
 | <b>Publisher</b>    |   ...  |
-| <b>First Printing Edition</b>    |   Coming Soon  |
+| <b>First Printing Edition</b>    |   🔺<b>Coming Soon</b>  |
 | <b>Print Length</b>    |  ...   |
 | <b>ISBN</b>    |  0-0000000-0-0   |
 
