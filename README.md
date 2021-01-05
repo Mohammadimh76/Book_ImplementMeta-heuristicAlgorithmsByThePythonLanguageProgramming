@@ -72,7 +72,7 @@ Optimization is the process that is followed to make something better. The idea,
 Optimization refers to finding the best answer to a problem. The word best implicitly states that there is more than one answer to a problem that is not of equal value. Defining the best answer to the problem under consideration is the method of solving And also the amount of error allowed depends; Therefore, how the problem is formulated also has a direct impact on how the best answer is defined. Some questioners have definite answers. The best player in a sport, the longest day of the year, and the answer to a typical first-order differential equation are examples of simple problems.<br>
 
 <p align="center">
-  <img width="420" height="237" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Simulated_Annealing.gif">
+  <img width="420" height="237" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/SimulatedAnnealing.gif">
 </p>
 
 In contrast, some problems have multiple maximum or minimum answers, known as optimal or extreme points, and the best answer is probably a relative concept. The best works of art, the most beautiful scenery and the most pleasing piece of music are some of the examples that can be given for such issues.<br>
@@ -81,7 +81,7 @@ The extreme points of any function are the first-order derivatives of that funct
 For example, a function gradient is used instead of a derivative. Many methods have been proposed to improve the analytical optimization process, but in general, for problems that are complex or do not have a clear mathematical definition, the analytical method assumes efficiency. It will not have.<br>
 
 <p align="center">
-  <img width="420" height="315" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/Simulated_Annealing_2.gif">
+  <img width="420" height="315" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/SimulatedAnnealing_2.gif">
 </p>
 
 In contrast, there are methods that are inspired by nature and do not have a specific function, but the behavior of these algorithms is mostly described by random quantities. It should be noted that in our opinion, the behavior of nature is unpredictable and therefore methods We have modeled nature attributes with random numbers, but this attitude is most likely due to our lack of understanding of nature's behavior. Nature-derived methods, in addition to their many beauties, also bring us the power of nature. Nature is always optimizing and some people believe that it always does the best it can. Nature-inspired methods are in fact conscious imitations of nature to use a nature-like method in dealing with various issues. One of the algorithms that falls into this category is the refrigeration simulation algorithm or the open algorithm. Baking (SA) is the subject of discussion and will be explained below. 
@@ -89,6 +89,11 @@ In contrast, there are methods that are inspired by nature and do not have a spe
 ## Chapter (3) - Tabu Search (TS)
 Given the challenges of solving complex optimization problems in the real world, classical methods often face many problems. Important and essential applications in business, engineering, economics, and science using methods that have focused primarily on academic research for the past three decades cannot be reasonably hoped for success. In contrast, meta-innovative approaches have dramatically altered our ability to solve business, applied science, and engineering problems. Many of these methods use a local search mechanism, which is an iterative search process that starts with a solvable search and searches in the solution space to reach a local optimization. continues. Since the quality of the answer obtained in a local search is largely dependent on the movements defined, this local optimization will usually be nothing more than an average answer. This is a major problem in local search-based approaches.<br>
 Glover (م introduced the Forbidden Search Method (TS) method 1986 in 1986 to address the shortcomings associated with local search algorithms, which is based on the direct obstruction of the search algorithm from accessing difficult areas of the solution space. Different forms such as prohibition of type navigation in the solution space, prohibition of one or more areas of the solution space from the search process. This method is based on the selection of concepts from the fields of artificial intelligence and optimization and the local search method. Leads to a search for space farther from the local optimization, and in this way the creation of adaptable memory has dramatically increased our ability to solve a variety of problems, including recent responses or movements. In fact, the forbidden search algorithm can be considered as a combination of a short-term memory and a local search mechanism.<br>
+
+<p align="center">
+  <img width="450" height="253" src="https://github.com/Mohammadimh76/Book_ImplementMeta-heuristicAlgorithmsByThePythonLanguageProgramming/blob/main/Gif/TabuSearch.gif">
+</p>
+
 The word ta bo comes from a Polynesian language, used in the past by the indigenous peoples of Tonga to forbid sacred objects that should not be touched. According to the Webster Dictionary, the word now means "prohibition imposed by society. In the form of a "preventive measure" or "prohibited due to danger". The latter meaning, that is, prohibition due to danger, is very much in line with the subject of taboo search. Just as in society, "preventive prohibition" can be replaced by other things if necessary, prohibited search taboos can be revised when there are desirable alternatives.
 
 ## Chapter (4) - Genetic Algorithm (GA)
