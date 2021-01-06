@@ -26,7 +26,7 @@ Authors Group
 
 ## Contents:
 
-- <b>Chapter (1):</b> Optimization methods
+- [<b>[Chapter (1):</b>](#chapter_1) Optimization methods
 - <b>Chapter (2):</b> Simulated Annealing (SA) 
 - <b>Chapter (3):</b> Tabu Search (TS)
 - <b>Chapter (4):</b> Genetic Algorithm (GA)
@@ -63,9 +63,12 @@ Authors Group
 
 
 
-
+<article id="chapter_1">
+  
 ## Chapter (1) - Optimization methods
 There are search methods that aim to find an answer to the optimization problem, so that the quantity under consideration is optimized, although some more complex issues are not considered in this definition. For example, the answer could be a combination of Include different types of data, limit non-linear search space, specify problem over time, or quantities to be optimized for conflicting purposes. These are just a few small examples of the complexities of an optimization algorithm, and are briefly reviewed in this chapter. 
+
+</article>
 
 ## Chapter (2) - Simulated Annealing (SA) 
 Optimization is the process that is followed to make something better. The idea, idea or design put forward by a scientist or engineer gets better during the optimization process. During optimization, the initial conditions are examined in different ways and the information obtained is used to improve an idea or method. Optimization is a mathematical tool used to find answers to many questions about how to solve various problems.<br>
