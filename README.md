@@ -26,7 +26,7 @@ Authors Group
 
 ## Contents:
 
-- [<b>[Chapter (1):</b>](#chapter_1) Optimization methods
+* [<b>[Chapter (1):</b>](#chapter_1) Optimization methods
 - <b>Chapter (2):</b> Simulated Annealing (SA) 
 - <b>Chapter (3):</b> Tabu Search (TS)
 - <b>Chapter (4):</b> Genetic Algorithm (GA)
