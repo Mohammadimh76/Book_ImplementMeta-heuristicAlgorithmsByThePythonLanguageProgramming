@@ -62,7 +62,7 @@ Authors Group
 
 
   
-### Chapter (1) - Optimization methods
+## Chapter (1) - Optimization methods
 There are search methods that aim to find an answer to the optimization problem, so that the quantity under consideration is optimized, although some more complex issues are not considered in this definition. For example, the answer could be a combination of Include different types of data, limit non-linear search space, specify problem over time, or quantities to be optimized for conflicting purposes. These are just a few small examples of the complexities of an optimization algorithm, and are briefly reviewed in this chapter. 
 
 ## Chapter (2) - Simulated Annealing (SA) 
