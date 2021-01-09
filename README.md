@@ -165,7 +165,7 @@ Prior to MPL, I finished my BSc in Computer Engineering at the Department of Com
 - [x] Chapter (1): Optimization methods
 - [x] Chapter (2): Simulated Annealing (SA)
 - [x] Chapter (3): Tabu Search (TS)
-- [x] Chapter (4): Genetic Algorithm (GA)
+- [ ] Chapter (4): Genetic Algorithm (GA)
 - [ ] Chapter (5): Ant Colony Optimization algorithms (ACO)
 - [ ] Chapter (6): Particle Swarm Optimization (PSO)
 
