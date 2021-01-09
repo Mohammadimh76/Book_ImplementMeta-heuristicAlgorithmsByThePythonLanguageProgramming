@@ -158,6 +158,16 @@ Prior to MPL, I finished my BSc in Computer Engineering at the Department of Com
 🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐀𝐥𝐢 𝐊𝐚𝐫𝐢𝐦𝐢" 👉 [alikarimi120.github.io](https://alikarimi120.github.io/)<br>
 📧 𝐄𝐦𝐚𝐢𝐥: alikarimi120@gmail.com 
 
+---
+
+## TODO
+
+- [x] Chapter (1): Optimization methods
+- [x] Chapter (2): Simulated Annealing (SA)
+- [x] Chapter (3): Tabu Search (TS)
+- [x] Chapter (4): Genetic Algorithm (GA)
+- [ ] Chapter (5): Ant Colony Optimization algorithms (ACO)
+- [ ] Chapter (6): Particle Swarm Optimization (PSO)
 
 ---
 ---
